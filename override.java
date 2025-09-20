@@ -1,4 +1,4 @@
-public class First{
+public class override{
     public static void main(String a[]){
         Rectangle rec = new Rectangle(40,60);
         System.out.println("Rectangle before resizing");
@@ -31,4 +31,5 @@ class Rectangle implements Resizable{
     public void display(){
         System.out.println("Rectangle width :"+width+"\t Rectangle height : \t "+height);
     }
+
 }

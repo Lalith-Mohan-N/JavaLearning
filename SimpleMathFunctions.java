@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dem{
+public class SimpleMathFunctions{
     public static void main(String[] args) {
         //Scanner scan = new Scanner(System.in);
         //Dem demo = new Dem();
@@ -252,4 +252,5 @@ public class Dem{
         avg=sum/arr.length;
         System.out.print("Sum of the array is : "+ sum + "\nAverage is : "+avg+" ");
     }
+
 }

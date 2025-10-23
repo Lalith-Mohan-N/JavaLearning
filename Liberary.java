@@ -1,4 +1,4 @@
-class Book {
+class Liberary {
     static int totalBook;
     String title;
     String author;
@@ -64,4 +64,5 @@ class Book {
         System.out.println(Book.getTotalBook());
         System.out.println();
     }
+
 }

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class calci{
+class String{
     String name;
     int age;
     static int gussNum;
@@ -65,4 +65,5 @@ class calci{
         gussNum=(int)Math.ceil(randomNum);
         return gussNum;
     }
+
 }
